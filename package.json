@@ -1,0 +1,17 @@
+{
+  "name": "frugal-testing",
+  "version": "1.0.0",
+  "description": "test makeMyTrip",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Pushkar Dangi",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.9.2"
+  }
+}
